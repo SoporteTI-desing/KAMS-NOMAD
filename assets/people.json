@@ -1,24 +1,17 @@
 [
   {
-    "name": "José Francisco Muñoz",
-    "role": "KAM Nomad",
-    "photo": "nomad_01",
-    "phone": "5554360130",
-    "image": "assets/img/nomad_01.png"
-  },
-  {
-    "name": "Claudia Jiménez Beltrán",
-    "role": "KAM Nomad",
-    "photo": "nomad_06",
-    "phone": "5554360130",
-    "image": "assets/img/nomad_06.png"
-  },
-  {
     "name": "Marymar Martínez",
     "role": "Gerente de Ventas",
     "photo": "nomad_03",
     "phone": "5543401015",
     "image": "assets/img/nomad_03.png"
+  },
+  {
+     "name": "José Francisco Muñoz",
+    "role": "KAM Nomad",
+    "photo": "nomad_01",
+    "phone": "5554360130",
+    "image": "assets/img/nomad_01.png"
   },
   {
     "name": "Angel Nava",
@@ -33,6 +26,13 @@
     "photo": "nomad_05",
     "phone": "5579681304",
     "image": "assets/img/nomad_05.png"
+  },
+  {
+    "name": "Claudia Jiménez Beltrán",
+    "role": "KAM Nomad",
+    "photo": "nomad_06",
+    "phone": "5554360130",
+    "image": "assets/img/nomad_06.png"
   },
   {
     "name": "Nereida Yanez",
